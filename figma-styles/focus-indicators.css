@@ -1,0 +1,1575 @@
+/* Focus indicators */
+
+width: 1096px;
+height: 720px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Elevation Light */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 24px;
+
+position: absolute;
+width: 208px;
+height: 594px;
+left: 64px;
+top: 64px;
+
+/* TV Compose/sys/light/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Elevation 1 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/light/surface-container-lowest */
+background: #FFFFFF;
+/* TV Compose/light/1 */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3), 0px 1px 3px 1px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shadow at +1 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 2dp */
+
+position: absolute;
+width: 21px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 2 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/light/surface-container-low */
+background: #F8FAFD;
+/* TV Compose/light/2 */
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3), 0px 2px 6px 2px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Shadow at +2 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 4dp */
+
+position: absolute;
+width: 21px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 3 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/light/surface-container */
+background: #F0F4F9;
+/* TV Compose/light/3 */
+box-shadow: 0px 4px 8px 3px rgba(0, 0, 0, 0.15), 0px 1px 3px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Shadow at +3 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 8dp */
+
+position: absolute;
+width: 21px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 4 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/light/surface-container-high */
+background: #E9EEF6;
+/* TV Compose/light/4 */
+box-shadow: 0px 6px 10px 4px rgba(0, 0, 0, 0.15), 0px 2px 3px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Shadow at +4 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 16dp */
+
+position: absolute;
+width: 28px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 5 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/light/surface-container-highest */
+background: #DDE3EA;
+/* TV Compose/light/5 */
+box-shadow: 0px 8px 12px 6px rgba(0, 0, 0, 0.15), 0px 4px 4px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Shadow at +5 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 24dp */
+
+position: absolute;
+width: 28px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation Dark */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 24px;
+
+position: absolute;
+width: 208px;
+height: 594px;
+left: 296px;
+top: 64px;
+
+/* TV Compose/sys/dark/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+border-radius: 16px;
+
+
+/* Elevation 1 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/surface-container-lowest */
+background: #0E0E0E;
+/* TV Compose/dark/1 */
+box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15), 0px 1px 2px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shadow at +1 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* 2dp */
+
+position: absolute;
+width: 21px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* Elevation 2 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/surface-container-low */
+background: #1B1B1B;
+/* TV Compose/dark/2 */
+box-shadow: 0px 2px 6px 2px rgba(0, 0, 0, 0.15), 0px 1px 2px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Shadow at +2 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* 4dp */
+
+position: absolute;
+width: 21px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* Elevation 3 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/surface-container */
+background: #1E1F20;
+/* TV Compose/dark/3 */
+box-shadow: 0px 4px 8px 3px rgba(0, 0, 0, 0.15), 0px 1px 3px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Shadow at +3 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* 8dp */
+
+position: absolute;
+width: 21px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* Elevation 4 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/surface-container-high */
+background: #282A2C;
+/* TV Compose/dark/4 */
+box-shadow: 0px 6px 10px 4px rgba(0, 0, 0, 0.15), 0px 2px 3px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Shadow at +4 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* 16dp */
+
+position: absolute;
+width: 28px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* Elevation 5 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/surface-container-highest */
+background: #333537;
+/* TV Compose/dark/5 */
+box-shadow: 0px 8px 12px 6px rgba(0, 0, 0, 0.15), 0px 4px 4px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Shadow at +5 */
+
+position: absolute;
+width: 76px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* 24dp */
+
+position: absolute;
+width: 28px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* Elevation Dark */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 24px;
+
+position: absolute;
+width: 208px;
+height: 480px;
+left: 824px;
+top: 64px;
+
+/* TV Compose/sys/dark/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+border-radius: 16px;
+
+
+/* Elevation 1 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+/* TV Compose/dark/1 */
+box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15), 0px 1px 2px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Outline */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* TV Compose/sys/light/outline
+
+Tv compose/sys/light/outline
+*/
+border: 2px solid #747775;
+border-radius: 4px;
+
+
+/* Outline */
+
+position: absolute;
+width: 39px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 2dp width */
+
+position: absolute;
+width: 55px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 4 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+/* TV Compose/dark/1 */
+box-shadow: 0px 1px 3px 1px rgba(0, 0, 0, 0.15), 0px 1px 2px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Outline */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* TV Compose/sys/dark/tertiary
+
+tertiary / on-tertiary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+border: 4px solid #6DD58C;
+border-radius: 4px;
+
+
+/* Outline color */
+
+position: absolute;
+width: 70px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 4dp width • tertiary */
+
+position: absolute;
+width: 105px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 2 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+/* TV Compose/dark/2 */
+box-shadow: 0px 2px 6px 2px rgba(0, 0, 0, 0.15), 0px 1px 2px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Outline with inset */
+
+position: absolute;
+width: 96px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 2dp width • 2dp inset */
+
+position: absolute;
+width: 116px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Outline */
+
+position: absolute;
+left: -2px;
+right: -2px;
+top: -2px;
+bottom: -2px;
+
+/* TV Compose/sys/light/outline
+
+Tv compose/sys/light/outline
+*/
+border: 2px solid #747775;
+border-radius: 6px;
+
+
+/* Elevation 3 */
+
+width: 160px;
+height: 90px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+/* TV Compose/dark/3 */
+box-shadow: 0px 4px 8px 3px rgba(0, 0, 0, 0.15), 0px 1px 3px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Outline color with inset */
+
+position: absolute;
+width: 127px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 1dp width • 4dp inset secondary */
+
+position: absolute;
+width: 140px;
+height: 32px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+display: flex;
+align-items: flex-end;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Outline */
+
+position: absolute;
+left: -4px;
+right: -4px;
+top: -4px;
+bottom: -4px;
+
+/* TV Compose/sys/dark/secondary
+
+secondary / on-secondary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+border: 1px solid #7FCFFF;
+border-radius: 7px;
+
+
+/* Elevation Dark */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 24px;
+
+position: absolute;
+width: 208px;
+height: 480px;
+left: 560px;
+top: 64px;
+
+/* TV Compose/sys/dark/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+border-radius: 16px;
+
+
+/* Elevation 1 */
+
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+/* TV Compose/dark/3 */
+box-shadow: 0px 4px 8px 3px rgba(0, 0, 0, 0.15), 0px 1px 3px rgba(0, 0, 0, 0.3);
+border-radius: 4px;
+
+
+/* Scale */
+
+position: absolute;
+width: 31px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 1x */
+
+position: absolute;
+width: 13px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: flex-end;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 2 */
+
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Card */
+
+position: absolute;
+left: -2px;
+right: -2px;
+top: -1.12px;
+bottom: -1.12px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+box-shadow: 0px 4.1px 8.2px 3.075px rgba(0, 0, 0, 0.15), 0px 1.025px 3.075px rgba(0, 0, 0, 0.3);
+border-radius: 4.1px;
+
+
+/* Scale */
+
+position: absolute;
+width: 31px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 1.025x */
+
+position: absolute;
+width: 38px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: flex-end;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 3 */
+
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Card */
+
+position: absolute;
+left: -4px;
+right: -4px;
+top: -2.25px;
+bottom: -2.25px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+box-shadow: 0px 4.2px 8.4px 3.15px rgba(0, 0, 0, 0.15), 0px 1.05px 3.15px rgba(0, 0, 0, 0.3);
+border-radius: 4.2px;
+
+
+/* Scale */
+
+position: absolute;
+width: 31px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 1.05x */
+
+position: absolute;
+width: 31px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: flex-end;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Elevation 4 */
+
+width: 160px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Card */
+
+position: absolute;
+left: -8px;
+right: -8px;
+top: -4.5px;
+bottom: -4.5px;
+
+/* TV Compose/sys/dark/on-background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+box-shadow: 0px 4.4px 8.8px 3.3px rgba(0, 0, 0, 0.15), 0px 1.1px 3.3px rgba(0, 0, 0, 0.3);
+border-radius: 4.4px;
+
+
+/* Scale */
+
+position: absolute;
+width: 31px;
+height: 16px;
+left: 10px;
+top: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* 1.1x */
+
+position: absolute;
+width: 24px;
+height: 16px;
+right: 10px;
+bottom: 10px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: flex-end;
+text-align: right;
+letter-spacing: 0.2px;
+
+/* TV Compose/black */
+color: #000000;
+

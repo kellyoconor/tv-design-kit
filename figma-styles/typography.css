@@ -1,0 +1,506 @@
+/* Typography */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 64px;
+gap: 24px;
+
+width: 1055px;
+height: 1076px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Display */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+width: 915px;
+height: 240px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant50
+
+token=md.ref.palette.neutral-variant50
+*/
+border: 1px solid #747775;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Display Large - Roboto 57/64 -0.25 */
+
+width: 867px;
+height: 64px;
+
+/* TV Compose/display/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 57px;
+line-height: 64px;
+/* identical to box height, or 112% */
+letter-spacing: -0.25px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Display Medium - Roboto 45/52 . 0 */
+
+width: 702px;
+height: 52px;
+
+/* TV Compose/display/medium */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 52px;
+/* identical to box height, or 116% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Display Small - Roboto 36/44 . 0 */
+
+width: 511px;
+height: 44px;
+
+/* TV Compose/display/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Headline */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+width: 525px;
+height: 188px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant50
+
+token=md.ref.palette.neutral-variant50
+*/
+border: 1px solid #747775;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Headline Large - Roboto 32/40 . 0 */
+
+width: 477px;
+height: 40px;
+
+/* TV Compose/headline/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Headline Medium - Roboto 28/36 . 0 */
+
+width: 449px;
+height: 36px;
+
+/* TV Compose/headline/medium */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+/* identical to box height, or 129% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Headline Small - Roboto 24/32 . 0 */
+
+width: 358px;
+height: 32px;
+
+/* TV Compose/headline/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Android + Web */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+width: 412px;
+height: 152px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant50
+
+token=md.ref.palette.neutral-variant50
+*/
+border: 1px solid #747775;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Title Large - Roboto Regular 22/28 . 0 */
+
+width: 364px;
+height: 28px;
+
+/* TV Compose/title/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title Medium - Roboto Medium 16/24 . +0.15 */
+
+width: 328px;
+height: 24px;
+
+/* TV Compose/title/medium */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.15px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title Small - Roboto Medium 14/20 . +0.1 */
+
+width: 262px;
+height: 20px;
+
+/* TV Compose/title/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Android + Web */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+width: 316px;
+height: 132px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant50
+
+token=md.ref.palette.neutral-variant50
+*/
+border: 1px solid #747775;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Label Large - Roboto Medium 14/20 . +0.1 */
+
+width: 268px;
+height: 20px;
+
+/* TV Compose/label/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label Medium - Roboto Medium 12/16 . +0.25 */
+
+width: 257px;
+height: 16px;
+
+/* TV Compose/label/medium */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.25px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Label Small - Roboto Medium 11/16 . +0.1 */
+
+width: 212px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Android + Web */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px;
+gap: 16px;
+
+width: 299px;
+height: 140px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant50
+
+token=md.ref.palette.neutral-variant50
+*/
+border: 1px solid #747775;
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Body Large - Roboto 16/24 . +0.25 */
+
+width: 251px;
+height: 24px;
+
+/* TV Compose/body/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.25px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body Medium - Roboto 14/20 . +0.25 */
+
+width: 237px;
+height: 20px;
+
+/* TV Compose/body/medium */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+letter-spacing: 0.25px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Body Small - Roboto 12/16 . +0.2 */
+
+width: 182px;
+height: 16px;
+
+/* TV Compose/body/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.2px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;

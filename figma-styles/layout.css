@@ -1,0 +1,76 @@
+/* Grids */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 80px;
+gap: 64px;
+
+width: 2144px;
+height: 720px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Grid */
+
+width: 960px;
+height: 540px;
+
+/* TV Compose/sys/dark/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grid */
+
+width: 960px;
+height: 540px;
+
+/* TV Compose/sys/dark/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

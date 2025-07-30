@@ -1,0 +1,12006 @@
+/* Color */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 120px;
+gap: 64px;
+
+width: 2917px;
+height: 1076px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Tonal palettes */
+
+width: 933px;
+height: 822px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tonal Palettes */
+
+position: absolute;
+width: 115px;
+height: 24px;
+left: 260px;
+top: 127px;
+
+/* material-theme/headline6 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* scheme */
+
+position: absolute;
+width: 933px;
+height: 750px;
+left: 120px;
+top: 199px;
+
+
+
+/* Primary */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: 0px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary0 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 140px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary0
+
+token=md.ref.palette.primary0
+*/
+background: #000000;
+
+
+/* 0 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 165px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary10 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 201px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary10
+
+token=md.ref.palette.primary10
+*/
+background: #041E49;
+
+
+/* 10 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 223px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary20 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 262px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary20
+
+token=md.ref.palette.primary20
+*/
+background: #062E6F;
+
+
+/* 20 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 283px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary30 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 323px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary30
+
+token=md.ref.palette.primary30
+*/
+background: #0842A0;
+
+
+/* 30 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 344px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary40 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 384px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary40
+
+token=md.ref.palette.primary40
+*/
+background: #0B57D0;
+
+
+/* 40 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 404px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary50 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 445px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary50
+
+token=md.ref.palette.primary50
+*/
+background: #1B6EF3;
+
+
+/* 50 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 465px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* primary60 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 506px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary60
+
+token=md.ref.palette.primary60
+*/
+background: #4C8DF6;
+
+
+/* 60 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 526px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* primary70 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 567px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary70
+
+token=md.ref.palette.primary70
+*/
+background: #7CACF8;
+
+
+/* 70 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 588px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* primary80 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 628px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary80
+
+token=md.ref.palette.primary80
+*/
+background: #A8C7FA;
+
+
+/* 80 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 649px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* primary90 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 689px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary90
+
+token=md.ref.palette.primary90
+*/
+background: #D3E3FD;
+
+
+/* 90 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 709px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* primary95 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 750px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary95
+
+token=md.ref.palette.primary95
+*/
+background: #ECF3FE;
+
+
+/* 95 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 771px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* primary99 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 811px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary99
+
+token=md.ref.palette.primary99
+*/
+background: #FAFBFF;
+
+
+/* 99 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 832px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* primary100 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 872px;
+top: 0px;
+
+/* TV Compose/ref/primary/primary100
+
+token=md.ref.palette.primary100
+*/
+background: #FFFFFF;
+
+
+/* 100 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 888px;
+top: 10px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Secondary */
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: 0px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary0 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 140px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary0
+
+token=md.ref.palette.secondary0
+*/
+background: #000000;
+
+
+/* 0 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 165px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary10 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 201px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary10
+
+token=md.ref.palette.secondary10
+*/
+background: #001D35;
+
+
+/* 10 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 223px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary20 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 262px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary20
+
+token=md.ref.palette.secondary20
+*/
+background: #003355;
+
+
+/* 20 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 283px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary30 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 323px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary30
+
+token=md.ref.palette.secondary30
+*/
+background: #004A77;
+
+
+/* 30 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 344px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary40 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 384px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary40
+
+token=md.ref.palette.secondary40
+*/
+background: #00639B;
+
+
+/* 40 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 404px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary50 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 445px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary50
+
+token=md.ref.palette.secondary50
+*/
+background: #047DB7;
+
+
+/* 50 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 465px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* secondary60 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 506px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary60
+
+token=md.ref.palette.secondary60
+*/
+background: #3998D3;
+
+
+/* 60 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 526px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* secondary70 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 567px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary70
+
+token=md.ref.palette.secondary70
+*/
+background: #5AB3F0;
+
+
+/* 70 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 588px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* secondary80 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 628px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary80
+
+token=md.ref.palette.secondary80
+*/
+background: #7FCFFF;
+
+
+/* 80 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 649px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* secondary90 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 689px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary90
+
+token=md.ref.palette.secondary90
+*/
+background: #C2E7FF;
+
+
+/* 90 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 709px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* secondary95 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 750px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary95
+
+token=md.ref.palette.secondary95
+*/
+background: #DFF3FF;
+
+
+/* 95 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 771px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* secondary99 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 811px;
+top: 128px;
+
+/* TV Compose/ref/primary/primary99
+
+token=md.ref.palette.primary99
+*/
+background: #FAFBFF;
+
+
+/* 99 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 832px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* secondary100 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 872px;
+top: 128px;
+
+/* TV Compose/ref/secondary/secondary100
+
+token=md.ref.palette.secondary100
+*/
+background: #FFFFFF;
+
+
+/* 100 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 888px;
+top: 138px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Tertiary */
+
+position: absolute;
+width: 56px;
+height: 24px;
+left: 0px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary0 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 140px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary0
+
+token=md.ref.palette.tertiary0
+*/
+background: #000000;
+
+
+/* 0 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 165px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary10 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 201px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary10
+
+token=md.ref.palette.tertiary10
+*/
+background: #072711;
+
+
+/* 10 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 223px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary20 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 262px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary20
+
+token=md.ref.palette.tertiary20
+*/
+background: #0A3818;
+
+
+/* 20 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 283px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary30 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 323px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary30
+
+token=md.ref.palette.tertiary30
+*/
+background: #0F5223;
+
+
+/* 30 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 344px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary40 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 384px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary40
+
+token=md.ref.palette.tertiary40
+*/
+background: #146C2E;
+
+
+/* 40 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 404px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary50 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 445px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary50
+
+token=md.ref.palette.tertiary50
+*/
+background: #198639;
+
+
+/* 50 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 465px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* tertiary60 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 506px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary60
+
+token=md.ref.palette.tertiary60
+*/
+background: #1EA446;
+
+
+/* 60 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 526px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* tertiary70 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 567px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary70
+
+token=md.ref.palette.tertiary70
+*/
+background: #37BE5F;
+
+
+/* 70 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 588px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* tertiary80 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 628px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary80
+
+token=md.ref.palette.tertiary80
+*/
+background: #6DD58C;
+
+
+/* 80 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 649px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* tertiary90 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 689px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary90
+
+token=md.ref.palette.tertiary90
+*/
+background: #C4EED0;
+
+
+/* 90 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 709px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* tertiary95 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 750px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary95
+
+token=md.ref.palette.tertiary95
+*/
+background: #E7F8ED;
+
+
+/* 95 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 771px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* tertiary99 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 811px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary99
+
+token=md.ref.palette.tertiary99
+*/
+background: #F2FFEE;
+
+
+/* 99 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 832px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* tertiary100 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 872px;
+top: 256px;
+
+/* TV Compose/ref/tertiary/tertiary100
+
+token=md.ref.palette.tertiary100
+*/
+background: #FFFFFF;
+
+
+/* 100 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 888px;
+top: 266px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Error */
+
+position: absolute;
+width: 36px;
+height: 24px;
+left: 0px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error0 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 140px;
+top: 384px;
+
+/* TV Compose/ref/error/error0
+
+token=md.ref.palette.error0
+*/
+background: #000000;
+
+
+/* 0 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 165px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error10 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 201px;
+top: 384px;
+
+/* TV Compose/ref/error/error10
+
+token=md.ref.palette.error10
+*/
+background: #410E0B;
+
+
+/* 10 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 223px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error20 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 262px;
+top: 384px;
+
+/* TV Compose/ref/error/error20
+
+token=md.ref.palette.error20
+*/
+background: #601410;
+
+
+/* 20 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 283px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error30 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 323px;
+top: 384px;
+
+/* TV Compose/ref/error/error30
+
+token=md.ref.palette.error30
+*/
+background: #8C1D18;
+
+
+/* 30 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 344px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error40 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 384px;
+top: 384px;
+
+/* TV Compose/ref/error/error40
+
+token=md.ref.palette.error40
+*/
+background: #B3261E;
+
+
+/* 40 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 404px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error50 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 445px;
+top: 384px;
+
+/* TV Compose/ref/error/error50
+
+token=md.ref.palette.error50
+*/
+background: #DC362E;
+
+
+/* 50 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 465px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* error60 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 506px;
+top: 384px;
+
+/* TV Compose/ref/error/error60
+
+token=md.ref.palette.error60
+*/
+background: #E46962;
+
+
+/* 60 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 526px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* error70 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 567px;
+top: 384px;
+
+/* TV Compose/ref/error/error70
+
+token=md.ref.palette.error70
+*/
+background: #EC928E;
+
+
+/* 70 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 588px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* error80 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 628px;
+top: 384px;
+
+/* TV Compose/ref/error/error80
+
+token=md.ref.palette.error80
+*/
+background: #F2B8B5;
+
+
+/* 80 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 649px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* error90 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 689px;
+top: 384px;
+
+/* TV Compose/ref/error/error90
+
+token=md.ref.palette.error90
+*/
+background: #F9DEDC;
+
+
+/* 90 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 709px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* error95 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 750px;
+top: 384px;
+
+/* TV Compose/ref/error/error95
+
+token=md.ref.palette.error95
+*/
+background: #FCEEEE;
+
+
+/* 95 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 771px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* error99 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 811px;
+top: 384px;
+
+/* TV Compose/ref/error/error99
+
+token=md.ref.palette.error99
+*/
+background: #FFFBF9;
+
+
+/* 99 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 832px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* error100 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 872px;
+top: 384px;
+
+/* TV Compose/ref/error/error100
+
+token=md.ref.palette.error100
+*/
+background: #FFFFFF;
+
+
+/* 100 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 888px;
+top: 394px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Neutral */
+
+position: absolute;
+width: 53px;
+height: 24px;
+left: 0px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral0 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 140px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral0
+
+token=md.ref.palette.neutral0
+*/
+background: #000000;
+
+
+/* 0 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 165px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral10 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 201px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral10
+
+token=md.ref.palette.neutral10
+*/
+background: #1F1F1F;
+
+
+/* 10 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 223px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral20 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 262px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral30
+
+token=md.ref.palette.neutral30
+*/
+background: #474747;
+
+
+/* 20 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 283px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral30 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 323px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral30
+
+token=md.ref.palette.neutral30
+*/
+background: #474747;
+
+
+/* 30 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 344px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral40 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 384px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral40
+
+token=md.ref.palette.neutral40
+*/
+background: #5E5E5E;
+
+
+/* 40 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 404px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral50 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 445px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral50
+
+token=md.ref.palette.neutral50
+*/
+background: #757575;
+
+
+/* 50 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 465px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral60 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 506px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral60
+
+token=md.ref.palette.neutral60
+*/
+background: #8F8F8F;
+
+
+/* 60 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 526px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral70 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 567px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral70
+
+token=md.ref.palette.neutral70
+*/
+background: #ABABAB;
+
+
+/* 70 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 588px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral80 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 628px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral80
+
+token=md.ref.palette.neutral80
+*/
+background: #C7C7C7;
+
+
+/* 80 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 649px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral90 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 689px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral90
+
+token=md.ref.palette.neutral90
+*/
+background: #E3E3E3;
+
+
+/* 90 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 709px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral95 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 750px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral95
+
+token=md.ref.palette.neutral95
+*/
+background: #F2F2F2;
+
+
+/* 95 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 771px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral99 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 811px;
+top: 552px;
+
+/* TV Compose/ref/primary/primary99
+
+token=md.ref.palette.primary99
+*/
+background: #FAFBFF;
+
+
+/* 99 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 832px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral100 */
+
+position: absolute;
+width: 61px;
+height: 108px;
+left: 872px;
+top: 552px;
+
+/* TV Compose/ref/neutral/neutral100
+
+token=md.ref.palette.neutral100
+*/
+background: #FFFFFF;
+
+
+/* 100 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 888px;
+top: 562px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Neutral Variant */
+
+position: absolute;
+width: 109px;
+height: 24px;
+left: 0px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant0 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 140px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant0
+
+token=md.ref.palette.neutral-variant0
+*/
+background: #000000;
+
+
+/* 0 */
+
+position: absolute;
+width: 10px;
+height: 24px;
+left: 165px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant10 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 201px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant10
+
+token=md.ref.palette.neutral-variant10
+*/
+background: #191D1C;
+
+
+/* 10 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 223px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant20 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 262px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant20
+
+token=md.ref.palette.neutral-variant20
+*/
+background: #2D312F;
+
+
+/* 20 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 283px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant30 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 323px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant30
+
+token=md.ref.palette.neutral-variant30
+*/
+background: #444746;
+
+
+/* 30 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 344px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant40 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 384px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant40
+
+token=md.ref.palette.neutral-variant40
+*/
+background: #5C5F5E;
+
+
+/* 40 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 404px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant50 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 445px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant50
+
+token=md.ref.palette.neutral-variant50
+*/
+background: #747775;
+
+
+/* 50 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 465px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* neutral-variant60 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 506px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant60
+
+token=md.ref.palette.neutral-variant60
+*/
+background: #8E918F;
+
+
+/* 60 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 526px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral-variant70 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 567px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant70
+
+token=md.ref.palette.neutral-variant70
+*/
+background: #A9ACAA;
+
+
+/* 70 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 588px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral-variant80 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 628px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant80
+
+token=md.ref.palette.neutral-variant80
+*/
+background: #C4C7C5;
+
+
+/* 80 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 649px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral-variant90 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 689px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant90
+
+token=md.ref.palette.neutral-variant90
+*/
+background: #E1E3E1;
+
+
+/* 90 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 709px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral-variant95 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 750px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant95
+
+token=md.ref.palette.neutral-variant95
+*/
+background: #EFF2EF;
+
+
+/* 95 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 771px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral-variant99 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 811px;
+top: 680px;
+
+/* TV Compose/ref/primary/primary99
+
+token=md.ref.palette.primary99
+*/
+background: #FAFBFF;
+
+
+/* 99 */
+
+position: absolute;
+width: 19px;
+height: 24px;
+left: 832px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* neutral-variant100 */
+
+position: absolute;
+width: 61px;
+height: 70px;
+left: 872px;
+top: 680px;
+
+/* TV Compose/ref/neutral-variant/neutral-variant100
+
+token=md.ref.palette.neutral-variant100
+*/
+background: #FFFFFF;
+
+
+/* 100 */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 888px;
+top: 690px;
+
+/* material-theme/subhead1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* TV Compose/black */
+color: #000000;
+
+
+
+/* Light theme */
+
+width: 808px;
+height: 822px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Light Theme */
+
+position: absolute;
+width: 100px;
+height: 24px;
+left: 1117px;
+top: 127px;
+
+/* material-theme/headline6 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* scheme */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 808px;
+height: 750px;
+left: 1117px;
+top: 199px;
+
+
+
+/* top row */
+
+width: 808px;
+height: 295px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Error */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 612px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/light/error
+
+error / on-error
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #B3261E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-error */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-error */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-error
+
+error / on-error
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/error */
+color: #B3261E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/error */
+color: #B3261E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/light/error-container
+
+error-container / on-error-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #F9DEDC;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-error-container */
+color: #410E0B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-error-container */
+color: #410E0B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-error-container
+
+error-container / on-error-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #410E0B;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/error-container */
+color: #F9DEDC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/error-container */
+color: #F9DEDC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Primary Secondary Tertiary */
+
+position: absolute;
+width: 596px;
+height: 295px;
+left: 0px;
+top: 0px;
+
+
+
+/* Primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 0px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/light/primary
+
+primary / on-primary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #0B57D0;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-primary
+
+primary / on-primary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary */
+color: #0B57D0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary */
+color: #0B57D0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/light/primary-container
+
+primary-container / on-primary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #D3E3FD;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-container */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-container */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-primary-container
+
+primary-container / on-primary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #041E49;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary-container */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary-container */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Secondary */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 200px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/light/secondary
+
+secondary / on-secondary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #00639B;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-secondary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-secondary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-secondary
+
+secondary / on-secondary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary */
+color: #00639B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary */
+color: #00639B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/light/secondary-container
+
+secondary-container / on-secondary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #C2E7FF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-secondary-container */
+color: #001D35;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-secondary-container */
+color: #001D35;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-secondary-container
+
+secondary-container / on-secondary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #001D35;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary-container */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary-container */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tertiary */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 400px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/light/tertiary
+
+tertiary / on-tertiary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #146C2E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-tertiary
+
+tertiary / on-tertiary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary */
+color: #146C2E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary */
+color: #146C2E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/light/tertiary-container
+
+tertiary-container / on-tertiary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #C4EED0;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary-container */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary-container */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/on-tertiary-container
+
+tertiary-container / on-tertiary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #072711;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary-container */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary-container */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Fixed colors */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 596px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 128px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* base fixed */
+
+width: 196px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+/* TV Compose/sys/light/primary-fixed */
+background: #D3E3FD;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-fixed */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-fixed */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 98px;
+top: 0px;
+
+/* TV Compose/sys/light/primary-fixed-dim */
+background: #A8C7FA;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-fixed-variant */
+color: #0842A0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-fixed-variant */
+color: #0842A0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/light/on-primary-fixed */
+background: #041E49;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary-fixed */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary-fixed */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/light/on-primary-fixed-variant */
+background: #0842A0;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary-fixed-dim */
+color: #A8C7FA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/primary-fixed-dim */
+color: #A8C7FA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 128px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* base fixed */
+
+width: 196px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+/* TV Compose/sys/light/secondary-fixed */
+background: #C2E7FF;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed */
+color: #001D35;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed */
+color: #001D35;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 98px;
+top: 0px;
+
+/* TV Compose/sys/light/secondary-fixed-dim */
+background: #7FCFFF;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed-variant */
+color: #004A77;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed-variant */
+color: #004A77;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/light/on-secondary-fixed */
+background: #001D35;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary-fixed */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary-fixed */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/light/on-secondary-fixed-variant */
+background: #004A77;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary-fixed-dim */
+color: #7FCFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/secondary-fixed-dim */
+color: #7FCFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 128px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* base fixed */
+
+width: 196px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+/* TV Compose/sys/light/tertiary-fixed */
+background: #C4EED0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary-fixed */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary-fixed */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 98px;
+top: 0px;
+
+/* TV Compose/sys/light/tertiary-fixed-dim */
+background: #6DD58C;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary-fixed */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-tertiary-fixed */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/light/on-tertiary-fixed */
+background: #072711;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary-fixed */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary-fixed */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/light/on-tertiary-fixed-variant */
+background: #0F5223;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary-fixed-dim */
+color: #6DD58C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/tertiary-fixed-dim */
+color: #6DD58C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* bottom row */
+
+width: 808px;
+height: 295px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Surfaces */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 596px;
+height: 295px;
+left: 0px;
+top: 455px;
+
+
+
+/* Surface group */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 596px;
+height: 124px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 199px;
+height: 124px;
+
+/* TV Compose/sys/light/surface-dim */
+background: #D3DBE5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 199px;
+height: 124px;
+
+/* TV Compose/sys/light/surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 198px;
+height: 124px;
+
+/* TV Compose/sys/light/surface-bright */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 174px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 174px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Surfaces */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 596px;
+height: 123px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/light/surface-container-lowest */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/light/surface-container-low */
+background: #F8FAFD;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/light/surface-container */
+background: #F0F4F9;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 120px;
+height: 123px;
+
+/* TV Compose/sys/light/surface-container-high */
+background: #E9EEF6;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 96px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 96px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/light/surface-container-highest */
+background: #DDE3EA;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-surface */
+color: #1F1F1F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* on surfaces */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 596px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/light/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #1F1F1F;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/light/on-surface-variant
+
+surface-variant / on-surface-variant
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #444746;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/light/outline
+
+Tv compose/sys/light/outline
+*/
+background: #747775;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/light/outline-variant */
+background: #C4C7C5;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/inverse-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/inverse-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* other */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 612px;
+top: 455px;
+
+
+
+/* inverses */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 196px;
+height: 239px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Inverse surface */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 195px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 157px;
+
+/* TV Compose/sys/light/inverse-surface
+
+Tv compose/sys/light/inverse-surface
+*/
+background: #303030;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/inverse-on-surface */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/inverse-on-surface */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 38px;
+
+/* TV Compose/sys/light/inverse-on-surface
+
+Tv compose/sys/light/inverse-on-surface
+*/
+background: #F2F2F2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/inverse-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/inverse-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/light/inverse-primary
+
+Tv compose/sys/light/inverse-primary
+*/
+background: #A8C7FA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-container */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-primary-container */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* scrim and shadow */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 196px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 90px;
+height: 40px;
+
+/* TV Compose/sys/light/scrim */
+background: #000000;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 90px;
+height: 40px;
+
+/* TV Compose/sys/light/shadow
+
+Tv compose/sys/light/shadow
+*/
+background: #000000;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dark theme */
+
+width: 808px;
+height: 822px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Dark Theme */
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 1989px;
+top: 127px;
+
+/* material-theme/headline6 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+/* TV Compose/white */
+color: #FFFFFF;
+
+
+
+/* scheme */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 808px;
+height: 750px;
+left: 1989px;
+top: 199px;
+
+
+
+/* top row */
+
+width: 808px;
+height: 295px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Error */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 612px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/dark/error
+
+error / on-error
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #F2B8B5;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-error */
+color: #601410;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-error */
+color: #601410;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-error
+
+error / on-error
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #601410;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/error */
+color: #F2B8B5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/error */
+color: #F2B8B5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/dark/error-container
+
+error-container / on-error-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #8C1D18;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-error-container */
+color: #F9DEDC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-error-container */
+color: #F9DEDC;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-error-container
+
+error-container / on-error-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #F9DEDC;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-error-container */
+color: #410E0B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/on-error-container */
+color: #410E0B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Primary Secondary Tertiary */
+
+position: absolute;
+width: 596px;
+height: 295px;
+left: 0px;
+top: 0px;
+
+
+
+/* Primary */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 0px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/dark/primary
+
+primary / on-primary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #A8C7FA;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary */
+color: #062E6F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary */
+color: #062E6F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-primary
+
+primary / on-primary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #062E6F;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary */
+color: #A8C7FA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary */
+color: #A8C7FA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/dark/primary-container
+
+primary-container / on-primary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #0842A0;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-container */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-container */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-primary-container
+
+primary-container / on-primary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #D3E3FD;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary-container */
+color: #0842A0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary-container */
+color: #0842A0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Secondary */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 200px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/dark/secondary
+
+secondary / on-secondary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #7FCFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary */
+color: #003355;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary */
+color: #003355;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-secondary
+
+secondary / on-secondary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #003355;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary */
+color: #7FCFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary */
+color: #7FCFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/dark/secondary-container
+
+secondary-container / on-secondary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #004A77;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-container */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-container */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-secondary-container
+
+secondary-container / on-secondary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #C2E7FF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary-container */
+color: #004A77;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary-container */
+color: #004A77;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tertiary */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 400px;
+top: 0px;
+
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 146px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 106px;
+
+/* TV Compose/sys/dark/tertiary
+
+tertiary / on-tertiary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #6DD58C;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary */
+color: #0A3818;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary */
+color: #0A3818;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-tertiary
+
+tertiary / on-tertiary
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #0A3818;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary */
+color: #6DD58C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary */
+color: #6DD58C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 145px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 105px;
+
+/* TV Compose/sys/dark/tertiary-container
+
+tertiary-container / on-tertiary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #0F5223;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary-container */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary-container */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-tertiary-container
+
+tertiary-container / on-tertiary-container
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #C4EED0;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary-container */
+color: #0F5223;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary-container */
+color: #0F5223;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Fixed colors */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 596px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 128px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* base fixed */
+
+width: 196px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+/* TV Compose/sys/dark/primary-fixed */
+background: #D3E3FD;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-fixed */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-fixed */
+color: #041E49;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 98px;
+top: 0px;
+
+/* TV Compose/sys/dark/primary-fixed-dim */
+background: #A8C7FA;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-fixed-variant */
+color: #0842A0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-fixed-variant */
+color: #0842A0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/dark/on-primary-fixed */
+background: #041E49;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary-fixed */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary-fixed */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/dark/on-primary-fixed-variant */
+background: #0842A0;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary-fixed-dim */
+color: #A8C7FA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/primary-fixed-dim */
+color: #A8C7FA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 128px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* base fixed */
+
+width: 196px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+/* TV Compose/sys/dark/secondary-fixed */
+background: #C2E7FF;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed */
+color: #001D35;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed */
+color: #001D35;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 98px;
+top: 0px;
+
+/* TV Compose/sys/dark/secondary-fixed-dim */
+background: #7FCFFF;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed-variant */
+color: #004A77;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-secondary-fixed-variant */
+color: #004A77;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/dark/on-secondary-fixed */
+background: #001D35;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary-fixed */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary-fixed */
+color: #C2E7FF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/dark/on-secondary-fixed-variant */
+background: #004A77;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary-fixed-dim */
+color: #7FCFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/secondary-fixed-dim */
+color: #7FCFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* swatch group */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 128px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* base fixed */
+
+width: 196px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+/* TV Compose/sys/dark/tertiary-fixed */
+background: #C4EED0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary-fixed */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary-fixed */
+color: #072711;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+position: absolute;
+width: 98px;
+height: 56px;
+left: 98px;
+top: 0px;
+
+/* TV Compose/sys/light/tertiary-fixed-dim */
+background: #6DD58C;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 74px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary-fixed-variant */
+color: #0F5223;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 74px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-tertiary-fixed-variant */
+color: #0F5223;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/dark/on-tertiary-fixed */
+background: #072711;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary-fixed */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary-fixed */
+color: #C4EED0;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 36px;
+
+/* TV Compose/sys/dark/on-tertiary-fixed-variant */
+background: #0F5223;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary-fixed-dim */
+color: #6DD58C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/tertiary-fixed-dim */
+color: #6DD58C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* bottom row */
+
+width: 808px;
+height: 295px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Surfaces */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 596px;
+height: 295px;
+left: 0px;
+top: 455px;
+
+
+
+/* Surface group */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 596px;
+height: 124px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 199px;
+height: 124px;
+
+/* TV Compose/sys/dark/surface-dim */
+background: #131313;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 199px;
+height: 124px;
+
+/* TV Compose/sys/dark/surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 175px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 198px;
+height: 124px;
+
+/* TV Compose/sys/dark/surface-bright */
+background: #37393B;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 174px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 174px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Surfaces */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 596px;
+height: 123px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/dark/surface-container-lowest */
+background: #0E0E0E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/dark/surface-container-low */
+background: #1B1B1B;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/dark/surface-container */
+background: #1E1F20;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 120px;
+height: 123px;
+
+/* TV Compose/sys/dark/surface-container-high */
+background: #282A2C;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 96px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 96px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 119px;
+height: 123px;
+
+/* TV Compose/sys/dark/surface-container-highest */
+background: #333537;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 95px;
+height: 32px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 95px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* on surfaces */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 596px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-surface
+
+surface / on-surface
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #E3E3E3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/surface */
+color: #131314;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/surface */
+color: #131314;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/dark/on-surface-variant
+
+surface-variant / on-surface-variant
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ❌ Fail
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #C4C7C5;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/surface */
+color: #131314;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/surface */
+color: #131314;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/dark/outline
+
+Tv compose/sys/dark/outline
+*/
+background: #8E918F;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/surface */
+color: #131314;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/surface */
+color: #131314;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 149px;
+height: 40px;
+
+/* TV Compose/sys/dark/outline-variant */
+background: #444746;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/inverse-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 125px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/inverse-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* other */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 196px;
+height: 295px;
+left: 612px;
+top: 455px;
+
+
+
+/* inverses */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 196px;
+height: 239px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Inverse surface */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 196px;
+height: 195px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 157px;
+
+/* TV Compose/sys/dark/inverse-surface
+
+Tv compose/sys/dark/inverse-surface
+*/
+background: #E3E3E3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/inverse-on-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/inverse-on-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 38px;
+
+/* TV Compose/sys/dark/inverse-on-surface
+
+Tv compose/sys/dark/inverse-on-surface
+*/
+background: #303030;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/inverse-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/inverse-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 196px;
+height: 40px;
+
+/* TV Compose/sys/dark/inverse-primary
+
+Tv compose/sys/dark/inverse-primary
+*/
+background: #0B57D0;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-container */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 172px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/dark/on-primary-container */
+color: #D3E3FD;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* scrim and shadow */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 196px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 90px;
+height: 40px;
+
+/* TV Compose/sys/dark/scrim */
+background: #000000;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .Swatch */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 10px 12px 12px;
+gap: 55.3px;
+
+width: 90px;
+height: 40px;
+
+/* TV Compose/sys/dark/shadow
+
+Tv compose/sys/dark/shadow
+*/
+background: #000000;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Role */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Token */
+
+margin: 0 auto;
+width: 66px;
+height: 16px;
+
+/* TV Compose/label/small */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* identical to box height, or 145% */
+display: flex;
+align-items: center;
+text-align: right;
+letter-spacing: 0.1px;
+
+/* TV Compose/sys/light/surface */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;

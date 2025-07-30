@@ -1,0 +1,139 @@
+/* Components */
+
+width: 3136px;
+height: 668px;
+
+/* TV Compose/black */
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background Image */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 2976px;
+height: 540px;
+left: 64px;
+top: 64px;
+
+/* TV Compose/black */
+background: #000000;
+border-radius: 16px;
+
+
+/* Scrim=None */
+
+width: 960px;
+height: 540px;
+
+/* TV Compose/black */
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Poster */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+
+
+/* Scrim */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Scrim=Radial */
+
+width: 960px;
+height: 540px;
+
+/* TV Compose/black */
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Poster */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+
+
+/* Scrim */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: radial-gradient(95.04% 100% at 95.04% 0%, rgba(0, 0, 0, 0.1) 0%, #000000 70.74%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+/* Scrim=Bottom */
+
+width: 960px;
+height: 540px;
+
+/* TV Compose/black */
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Poster */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+
+
+/* Scrim */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.8) 100%);

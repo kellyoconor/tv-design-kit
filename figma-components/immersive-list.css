@@ -1,0 +1,329 @@
+/* Components */
+
+width: 1088px;
+height: 1364px;
+
+/* TV Compose/black */
+background: #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Immersive row */
+
+position: absolute;
+width: 960px;
+height: 540px;
+left: 64px;
+top: calc(50% - 540px/2 - 348px);
+
+/* TV Compose/sys/dark/background
+
+background / on-background
+
+Regular text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Large text:
+Level AA - ✅ Pass
+Level AAA - ✅ Pass
+
+Icons:
+Level AA - ✅ Pass
+
+*/
+background: #131314;
+
+
+/* Background Image */
+
+position: absolute;
+width: 758px;
+height: 428px;
+right: 0px;
+top: 0px;
+
+/* TV Compose/black */
+background: #000000;
+
+
+/* Poster */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+
+
+/* Scrim */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: radial-gradient(95.04% 100% at 95.04% 0%, rgba(19, 19, 20, 0.1) 0%, #131314 70.74%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+/* Content + button block */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+position: absolute;
+width: 484px;
+height: 128px;
+left: 58px;
+bottom: 236px;
+
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 484px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 484px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Overline */
+
+width: 484px;
+height: 16px;
+
+/* TV Compose/label/medium */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+letter-spacing: 0.25px;
+
+/* TV Compose/sys/dark/on-surface-variant */
+color: #C4C7C5;
+
+opacity: 0.6;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 484px;
+height: 40px;
+
+/* TV Compose/headline/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+/* TV Compose/sys/dark/on-surface */
+color: #E3E3E3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Description */
+
+width: 484px;
+height: 48px;
+
+/* TV Compose/body/large */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.25px;
+
+/* TV Compose/sys/dark/on-surface-variant */
+color: #C4C7C5;
+
+mix-blend-mode: normal;
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* .slot */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px;
+gap: 8px;
+
+display: none;
+width: 484px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 14.4px 9px 10.8px;
+gap: 6.6px;
+isolation: isolate;
+
+display: none;
+width: 98.6px;
+height: 40px;
+
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Background */
+
+position: absolute;
+left: -2.4px;
+right: -3.2px;
+top: -2px;
+bottom: -2px;
+
+/* TV Compose/sys/dark/inverse-surface
+
+Tv compose/sys/dark/inverse-surface
+*/
+background: #E3E3E3;
+border-radius: 44px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Icon
+
+Play, arrow,  control, controls, music, video
+*/
+
+width: 19.8px;
+height: 19.8px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* icon */
+
+position: absolute;
+left: 25%;
+right: 16.67%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* TV Compose/sys/dark/inverse-on-surface
+
+Tv compose/sys/dark/inverse-on-surface
+*/
+background: #303030;
+
+
+/* Label */
+
+width: 47px;
+height: 22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15.4px;
+line-height: 22px;
+/* identical to box height, or 143% */
+text-align: center;
+letter-spacing: 0.11px;
+
+/* TV Compose/sys/dark/inverse-on-surface */
+color: #303030;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
