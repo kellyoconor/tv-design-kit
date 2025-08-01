@@ -93,7 +93,7 @@ export const DifferentGaps: Story = {
   render: () => (
     <div className="space-y-8">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Small Gap</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Small Gap</Text>
         <Grid cols={4} gap="sm">
           {Array.from({ length: 4 }, (_, i) => (
             <GridItem key={i} number={i + 1} />
@@ -101,7 +101,7 @@ export const DifferentGaps: Story = {
         </Grid>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Large Gap</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Large Gap</Text>
         <Grid cols={4} gap="xl">
           {Array.from({ length: 4 }, (_, i) => (
             <GridItem key={i} number={i + 1} />

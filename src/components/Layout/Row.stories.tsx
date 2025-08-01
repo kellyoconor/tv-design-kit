@@ -32,7 +32,7 @@ type Story = StoryObj<typeof meta>;
 const RowItem = ({ height = 'h-16', children }: { height?: string; children: React.ReactNode }) => (
   <Card className={`${height} flex items-center justify-center min-w-16`}>
     <CardContent className="p-2">
-      <Text size="sm">{children}</Text>
+      <Text variant="body-medium">{children}</Text>
     </CardContent>
   </Card>
 );
@@ -51,7 +51,7 @@ export const Gaps: Story = {
   render: () => (
     <div className="space-y-6">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Small Gap</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Small Gap</Text>
         <Row gap="sm">
           <RowItem>A</RowItem>
           <RowItem>B</RowItem>
@@ -59,7 +59,7 @@ export const Gaps: Story = {
         </Row>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Large Gap</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Large Gap</Text>
         <Row gap="xl">
           <RowItem>A</RowItem>
           <RowItem>B</RowItem>
@@ -74,7 +74,7 @@ export const Alignment: Story = {
   render: () => (
     <div className="space-y-6">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Align Start</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Align Start</Text>
         <Row align="start" className="h-24 bg-gray-800 rounded">
           <RowItem height="h-8">Short</RowItem>
           <RowItem height="h-16">Tall</RowItem>
@@ -82,7 +82,7 @@ export const Alignment: Story = {
         </Row>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Align Center</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Align Center</Text>
         <Row align="center" className="h-24 bg-gray-800 rounded">
           <RowItem height="h-8">Short</RowItem>
           <RowItem height="h-16">Tall</RowItem>
@@ -97,7 +97,7 @@ export const Justification: Story = {
   render: () => (
     <div className="space-y-6">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Justify Between</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Justify Between</Text>
         <Row justify="between" className="w-full">
           <RowItem>Left</RowItem>
           <RowItem>Center</RowItem>
@@ -105,7 +105,7 @@ export const Justification: Story = {
         </Row>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Justify Center</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Justify Center</Text>
         <Row justify="center" className="w-full">
           <RowItem>A</RowItem>
           <RowItem>B</RowItem>

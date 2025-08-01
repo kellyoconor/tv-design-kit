@@ -80,20 +80,20 @@ function App() {
           {/* Progress Example */}
           <Card className="p-6">
             <CardHeader>
-              <Text as="h2" size="xl" weight="semibold">
+              <Text as="h2" variant="title-large" weight="semibold">
                 Continue Watching
               </Text>
             </CardHeader>
             <CardContent>
               <Row gap="md" align="center">
                 <div className="flex-1">
-                  <Text size="base" className="mb-2">
+                  <Text variant="body-medium" className="mb-2">
                     The Great Series - S1E5
                   </Text>
                   <Progress
                     value={progress}
                     showLabel
-                    variant="primary"
+                    color="primary"
                   />
                 </div>
                 <Button
@@ -108,7 +108,7 @@ function App() {
 
           {/* Trending Movies */}
           <section>
-            <Text as="h2" size="2xl" weight="bold" className="mb-6">
+            <Text as="h2" variant="headline-small" weight="bold" className="mb-6">
               Trending Now
             </Text>
             <Grid cols={4} gap="lg">
@@ -128,20 +128,20 @@ function App() {
 
           {/* Component Showcase */}
           <section>
-            <Text as="h2" size="2xl" weight="bold" className="mb-6">
+            <Text as="h2" variant="headline-small" weight="bold" className="mb-6">
               Component Showcase
             </Text>
             <Grid cols={2} gap="lg">
               <Card hoverable>
                 <CardHeader>
-                  <Text as="h3" size="lg" weight="semibold">
+                  <Text as="h3" variant="title-medium" weight="semibold">
                     Buttons
                   </Text>
                 </CardHeader>
                 <CardContent>
                   <Row gap="sm">
-                    <Button variant="primary" size="sm">Primary</Button>
-                    <Button variant="secondary" size="sm">Secondary</Button>
+                    <Button variant="filled" size="sm">Primary</Button>
+                    <Button variant="outline" size="sm">Secondary</Button>
                     <Button variant="ghost" size="sm">Ghost</Button>
                   </Row>
                 </CardContent>
@@ -149,16 +149,16 @@ function App() {
 
               <Card hoverable>
                 <CardHeader>
-                  <Text as="h3" size="lg" weight="semibold">
+                  <Text as="h3" variant="title-medium" weight="semibold">
                     Typography
                   </Text>
                 </CardHeader>
                 <CardContent className="space-y-2">
-                  <Text size="xs" color="muted">Extra Small Text</Text>
-                  <Text size="sm">Small Text</Text>
-                  <Text size="base">Base Text</Text>
-                  <Text size="lg" weight="semibold">Large Semibold</Text>
-                  <Text size="xl" weight="bold" color="accent">XL Bold Accent</Text>
+                  <Text variant="body-small" color="on-surface-variant">Extra Small Text</Text>
+                  <Text variant="body-medium">Small Text</Text>
+                  <Text variant="body-medium">Base Text</Text>
+                  <Text variant="title-medium" weight="semibold">Large Semibold</Text>
+                  <Text variant="title-large" weight="bold" color="primary">XL Bold Accent</Text>
                 </CardContent>
               </Card>
             </Grid>
@@ -174,7 +174,7 @@ function App() {
         size="lg"
       >
         <div className="space-y-4">
-          <Text size="base">
+          <Text variant="body-medium">
             This is a demo modal showing how the TV component library handles 
             overlays and focus management. Perfect for showing detailed information 
             about movies, shows, or other content.
@@ -183,7 +183,7 @@ function App() {
             <Button variant="ghost" onClick={() => setIsModalOpen(false)}>
               Cancel
             </Button>
-            <Button variant="primary" onClick={() => setIsModalOpen(false)}>
+            <Button variant="filled" onClick={() => setIsModalOpen(false)}>
               Watch Now
             </Button>
           </Row>

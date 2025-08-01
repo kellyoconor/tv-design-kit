@@ -32,7 +32,7 @@ type Story = StoryObj<typeof meta>;
 const ColumnItem = ({ width = 'w-32', children }: { width?: string; children: React.ReactNode }) => (
   <Card className={`${width} h-16 flex items-center justify-center`}>
     <CardContent className="p-2">
-      <Text size="sm">{children}</Text>
+      <Text variant="body-medium">{children}</Text>
     </CardContent>
   </Card>
 );
@@ -51,7 +51,7 @@ export const Gaps: Story = {
   render: () => (
     <div className="flex gap-8">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Small Gap</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Small Gap</Text>
         <Column gap="sm">
           <ColumnItem>A</ColumnItem>
           <ColumnItem>B</ColumnItem>
@@ -59,7 +59,7 @@ export const Gaps: Story = {
         </Column>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Large Gap</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Large Gap</Text>
         <Column gap="xl">
           <ColumnItem>A</ColumnItem>
           <ColumnItem>B</ColumnItem>
@@ -74,7 +74,7 @@ export const Alignment: Story = {
   render: () => (
     <div className="flex gap-8">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Align Start</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Align Start</Text>
         <Column align="start" className="w-48 bg-gray-800 rounded p-4">
           <ColumnItem width="w-16">Small</ColumnItem>
           <ColumnItem width="w-32">Medium</ColumnItem>
@@ -82,7 +82,7 @@ export const Alignment: Story = {
         </Column>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Align Center</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Align Center</Text>
         <Column align="center" className="w-48 bg-gray-800 rounded p-4">
           <ColumnItem width="w-16">Small</ColumnItem>
           <ColumnItem width="w-32">Medium</ColumnItem>
@@ -97,7 +97,7 @@ export const Justification: Story = {
   render: () => (
     <div className="flex gap-8">
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Justify Between</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Justify Between</Text>
         <Column justify="between" className="h-64">
           <ColumnItem>Top</ColumnItem>
           <ColumnItem>Middle</ColumnItem>
@@ -105,7 +105,7 @@ export const Justification: Story = {
         </Column>
       </div>
       <div>
-        <Text size="lg" weight="semibold" className="mb-4">Justify Center</Text>
+        <Text variant="title-medium" weight="semibold" className="mb-4">Justify Center</Text>
         <Column justify="center" className="h-64">
           <ColumnItem>A</ColumnItem>
           <ColumnItem>B</ColumnItem>

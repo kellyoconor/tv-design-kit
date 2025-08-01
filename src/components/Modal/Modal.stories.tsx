@@ -43,7 +43,7 @@ const ModalDemo = ({ title, size }: { title?: string; size?: 'sm' | 'md' | 'lg' 
             <Button variant="ghost" onClick={() => setIsOpen(false)}>
               Cancel
             </Button>
-            <Button variant="primary" onClick={() => setIsOpen(false)}>
+            <Button variant="filled" onClick={() => setIsOpen(false)}>
               Confirm
             </Button>
           </div>
@@ -94,9 +94,13 @@ export const MovieDetails: Story = {
                 className="w-24 h-36 object-cover rounded"
               />
               <div className="flex-1 space-y-2">
-                <Text as="h3" size="xl" weight="bold">The Amazing Movie</Text>
-                <Text color="secondary">2023 • Action, Adventure • 2h 15m</Text>
-                <Text size="sm">
+                <Text as="h3" variant="title-large" weight="bold">The Amazing Movie</Text>
+                <div className="mt-2">
+                  <Text variant="body-medium">
+                    2023 • Action, Adventure • 2h 15m
+                  </Text>
+                </div>
+                <Text variant="body-medium">
                   An epic adventure that takes you on a journey through space and time.
                   Experience stunning visuals and compelling storytelling.
                 </Text>
@@ -107,8 +111,8 @@ export const MovieDetails: Story = {
               <Button variant="ghost" onClick={() => setIsOpen(false)}>
                 Close
               </Button>
-              <Button variant="secondary">Add to List</Button>
-              <Button variant="primary">Watch Now</Button>
+              <Button variant="outline">Add to List</Button>
+              <Button variant="filled">Watch Now</Button>
             </div>
           </div>
         </Modal>

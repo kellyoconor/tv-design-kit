@@ -63,25 +63,24 @@ export const Sizes: Story = {
 export const Variants: Story = {
   render: () => (
     <div className="space-y-4 w-64">
-      <div>
-        <p className="text-sm text-gray-300 mb-2">Primary</p>
-        <Progress value={65} variant="primary" />
+      <div className="space-y-2">
+        <Progress value={65} color="primary" />
+        <div className="text-sm text-tv-compose-neutral-80">Primary</div>
       </div>
-      <div>
-        <p className="text-sm text-gray-300 mb-2">Secondary</p>
-        <Progress value={45} variant="secondary" />
+      <div className="space-y-2">
+        <Progress value={45} color="secondary" />
+        <div className="text-sm text-tv-compose-neutral-80">Secondary</div>
       </div>
-      <div>
-        <p className="text-sm text-gray-300 mb-2">Success</p>
-        <Progress value={90} variant="success" />
+      <div className="space-y-2">
+        <Progress value={90} color="success" />
+        <div className="text-sm text-tv-compose-neutral-80">Success</div>
       </div>
-      <div>
-        <p className="text-sm text-gray-300 mb-2">Warning</p>
-        <Progress value={70} variant="warning" />
+      <div className="space-y-2">
+        <Progress value={70} color="error" />
+        <div className="text-sm text-tv-compose-neutral-80">Warning</div>
       </div>
-      <div>
-        <p className="text-sm text-gray-300 mb-2">Error</p>
-        <Progress value={25} variant="error" />
+      <div className="space-y-2">
+        <Progress value={25} color="error" />
       </div>
     </div>
   ),
@@ -94,7 +93,7 @@ export const VideoProgress: Story = {
         <span>The Amazing Movie</span>
         <span>45 min remaining</span>
       </div>
-      <Progress value={65} variant="primary" showLabel />
+      <Progress value={65} color="primary" showLabel />
     </div>
   ),
 }; 
